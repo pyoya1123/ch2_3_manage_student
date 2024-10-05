@@ -1,6 +1,7 @@
 package org.fastcampus.student_management.application.course.dto;
 
 import org.fastcampus.student_management.domain.Course;
+import org.fastcampus.student_management.domain.CourseFee;
 import org.fastcampus.student_management.domain.DayOfWeek;
 
 public class CourseInfoDto {
